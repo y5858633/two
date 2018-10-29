@@ -6,3 +6,33 @@ a{text-decoration:none; color:#333;}
 h1,h2,h3,h4,h5,h6{font-weight:100;}
 body{ font-family:"微软雅黑";}
 input,a{outline:none;}
+
+.xqs_height{
+	width: 98%;
+	height: 1rem;
+	margin: 2%;
+}
+.xqs_height img{
+	width: 98%;
+	height: 1rem;
+}
+.xqs_main{
+	width: 98%;
+	height: 6rem;
+	margin: 2%;
+
+}
+.xqs_main img{
+	width: 98%;
+	height: 6rem;
+}
+.xqs_bottom{
+	width: 98%;
+	height: 2rem;
+	margin: 2%;
+
+}
+.xqs_bottom img{
+	width: 98%;
+	height: 3rem;
+}
