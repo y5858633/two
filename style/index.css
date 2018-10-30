@@ -6,6 +6,7 @@ a{text-decoration:none; color:#333;}
 h1,h2,h3,h4,h5,h6{font-weight:100;}
 body{ font-family:"微软雅黑";}
 input,a{outline:none;}
+<<<<<<< HEAD
 
 .xqs_height{
 	width: 98%;
@@ -36,3 +37,17 @@ input,a{outline:none;}
 	width: 98%;
 	height: 3rem;
 }
+=======
+body{
+	font-size: 0.16rem;
+}
+.gj_out{
+	width: 100%;
+	height: 4.4rem;
+	
+}
+.gj_img{
+	width: 100%;
+	height: 4.4rem;
+}
+>>>>>>> f40011897c6ad6d4da9474ed14a21b137b0cad1b

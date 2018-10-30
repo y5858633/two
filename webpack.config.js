@@ -39,7 +39,11 @@ var path = require('path');
 	devServer: {
 	  contentBase: path.join(__dirname, "dist"),
 	  compress: true,
+<<<<<<< HEAD
 	  port: 9001,
+=======
+	  port: 3000,
+>>>>>>> f40011897c6ad6d4da9474ed14a21b137b0cad1b
 	  inline:true
 	}
 };
